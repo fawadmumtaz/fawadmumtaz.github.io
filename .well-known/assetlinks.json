@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.fawadmumtaz.twa",
+        "sha256_cert_fingerprints": ["3B:09:23:CC:36:42:46:AC:3A:64:6F:6C:8A:B9:1A:93:A4:CB:12:0A:4B:DD:68:A7:91:0B:E7:91:4D:71:33:C8"]
+      }
+    }]
